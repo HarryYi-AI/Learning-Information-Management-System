@@ -35,4 +35,6 @@
 文件course存贮课程数据(课程号、课程名、课时、上课教师)；
 文件score存贮成绩(课程号、学号、成绩);
 
+为了实现上面的功能我们使用下面的思维导图来表示：
+
 ![未命名文件](https://github.com/user-attachments/assets/bcc12a3e-0b3a-47e5-bfa1-517237066587)
